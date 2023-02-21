@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
-*holder {
+#holder {
   display: grid;
-  grid-template-rows: repeat(2, 100px);
-  grid-template-columns: repeat(2, 100px);
+  grid-template-rows: repeat(2, 200px);
+  grid-template-columns: repeat(2, 200px);
   grid-gap: 10px;
   width: 220px; /* To account for the grid gap */
   height: 220px; /* To account for the grid gap */
